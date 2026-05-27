@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerperify",
+        "uuid": 13738216,
+        "checksum": "vjvlfs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
